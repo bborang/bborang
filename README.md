@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=JIYEON%20LEE&fontSize=55&fontColor=FFFFFF&fontAlignY=34&desc=Visual%20Technology%20%C2%B7%20HCI%20%C2%B7%20UX%20Research&descSize=18&descAlignY=54" width="100%" alt="JIYEON LEE" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=7C7CE8&center=true&vCenter=true&width=620&lines=Designing+technology+that+understands+people.;Visual+Technology+student+%40+Kwangwoon+University;HCI+%7C+UX+Research+%7C+Full-Stack+Development" alt="Designing technology that understands people." />
-
 <br/>
 
 <a href="mailto:jiyeon59.lee@gmail.com">
